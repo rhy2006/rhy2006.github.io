@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am a third-year undergraduate student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Automation.  
 My research interests include **control theory, reinforcement learning, and embodied intelligence**.
 
