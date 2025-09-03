@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Haiyin Ran"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am a third-year undergraduate student in Automation at Shanghai Jiao Tong University, with research interests in control theory, reinforcement learning, and embodied intelligence."
+  location         : "China"
+  employer         : "SJTU"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rhy2006@sjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
